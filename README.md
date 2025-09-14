@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ <a href="https://t.me/lewanumber1"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10694593/347407434-c5c5acc3-f434-4a8d-a834-6d94a7ffb45a.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250914T121559Z&X-Amz-Expires=300&X-Amz-Signature=541d0c8a47b31ebbee5a58c896a2c04f60b46cde96a5f4ccaf4f7bc87c80e885&X-Amz-SignedHeaders=host" height=25></a> </p>
+# My name is Alexey
 <!--
 **trifonovalexey/trifonovalexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
